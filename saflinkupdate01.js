@@ -24,6 +24,3 @@ var xxx=null;
 if(x=="1"){xxx="start-download-here.html"}
 if(x=="2"){xxx="download-insure-buy-general-insurance.html"}
 if(x=="3"){xxx="download-ask-lawyer-legal-help-apk-for.html"}a_to_ve[i].href="http://confighisshgratis.blogspot.com/p/"+xxx+"?url="+ encryptedUrl;rel="nofollow";}}
-var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
-function a_to_fa()
-{var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
