@@ -23,7 +23,7 @@ var x=Math.floor((Math.random()*3)+ 1);
 var xxx=null;
 if(x=="1"){xxx="start-download-here.html"}
 if(x=="2"){xxx="download-insure-buy-general-insurance.html"}
-if(x=="3"){xxx="download-ask-lawyer-legal-help-apk-for.html"}a_to_ve[i].href="http://confighisshgratis.blogspot.com/p/"+xxx+"?url="+ encryptedUrl;rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="3"){xxx="download-ask-lawyer-legal-help-apk-for.html"}a_to_ve[i].href="http://confighisshgratis.blogspot.com/p/"+xxx+"?url="+ encryptedUrl;rel="nofollow";a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
