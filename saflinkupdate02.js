@@ -19,12 +19,12 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*2)+ 1);
-var xxx=null;
-if(x=="null"){xxx="start-download-here.html"} 
-if(x=="1"){xxx="start-download-here.html"}
-if(x=="2"){xxx="download-insure-buy-general-insurance.html"}
-if(x=="3"){xxx="download-ask-lawyer-legal-help-apk-for.html"}a_to_ve[i].href="http://confighisshgratis.blogspot.com/p/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";}}
+var x=Math.floor((Math.random()*4)+ 1);
+var xxx=null=Math.floor((Math.random()*4)+ 1);
+if(x=="1"){xxx="start-download-here.html"} 
+if(x=="2"){xxx="start-download-here.html"}
+if(x=="3"){xxx="download-insure-buy-general-insurance.html"}
+if(x=="4"){xxx="download-ask-lawyer-legal-help-apk-for.html"}a_to_ve[i].href="http://confighisshgratis.blogspot.com/p/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
