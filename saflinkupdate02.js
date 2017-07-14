@@ -20,7 +20,7 @@ j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*2)+ 1);
-var xxx=null;
+var x=null;
 if(x=="1"){xxx="start-download-here.html"}
 if(x=="2"){xxx="download-insure-buy-general-insurance.html"}
 if(x=="3"){xxx="download-ask-lawyer-legal-help-apk-for.html"}a_to_ve[i].href="http://confighisshgratis.blogspot.com/p/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";}}
