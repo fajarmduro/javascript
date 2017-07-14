@@ -20,7 +20,7 @@ j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*3)+ 1);
-var x=null; 
+var xxx=null; 
 if(x=="null"){xxx="start-download-here.html"} 
 if(x=="1"){xxx="start-download-here.html"}
 if(x=="2"){xxx="download-insure-buy-general-insurance.html"}
